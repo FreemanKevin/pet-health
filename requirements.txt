@@ -1,0 +1,19 @@
+# requirements.txt
+fastapi>=0.68.0
+uvicorn>=0.15.0
+sqlalchemy>=1.4.0
+python-dotenv>=0.19.0
+minio>=7.1.0
+psycopg2-binary>=2.9.0
+pytest>=6.2.0
+pytest-asyncio>=0.14.0
+pytest-cov>=2.12.0
+alembic>=1.7.0
+black>=21.4b2
+flake8>=3.9.0
+isort>=5.9.3
+mypy>=0.910.0
+pydantic>=2.10.0
+pydantic-settings>=2.0.0
+requests>=2.26.0
+asyncpg>=0.24.0
